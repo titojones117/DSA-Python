@@ -5,5 +5,6 @@ While attending Cerritos College, I took a DSA class with an emphasize in the Ja
 
 * Relearn DSA in a more familiar language.
 * Get ready for coding interviews.
-* Feel productive.
 * Finally have fun with DSA :D
+
+Feel more than welcome to critque my solutions and add your own! :D
