@@ -7,4 +7,4 @@ While attending Cerritos College, I took a DSA class with an emphasize in the Ja
 * Get ready for coding interviews.
 * Finally have fun with DSA :D
 
-Feel more than welcome to critque my solutions and add your own! :D
+Feel more than welcome to critque my solutions and even add your own! :D
