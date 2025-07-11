@@ -6,7 +6,7 @@ def arithmetic(a,b,c):
     elif (a*b == c):
         return f"{a}*{b} = {c} is true"
     else:
-        return f"You fucking failed idiot"
+        return f"you failed :("
 
 a = int(input("Enter A: "))
 b = int(input("Enter B: "))
