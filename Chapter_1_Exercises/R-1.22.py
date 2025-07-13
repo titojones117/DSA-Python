@@ -2,8 +2,11 @@ import random
 
 def dot_product(data1, data2):
     data3 = []
-    for i in range(0,len(data1)):
-        data3.append(data1[i]*data2[i])
+    if len(data1) == len(data2):
+        for i in range(0,len(data1)):
+            data3.append(data1[i]*data2[i])
+    else:
+        return print("data sets are not of the same length")
     return data3
 
 n = 5
